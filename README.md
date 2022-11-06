@@ -1,5 +1,5 @@
 ### Argentinian football results from 2015 to 2022
-This dataset contains information about all matches played in the first division of Argentinian football from 2015 to 2022. 
+This dataset contains information about all matches played in the first division of Argentinian football from 2015 to 2022. There are two identical files in terms of information but one is in English (*_eng*) and one in Spanish (*_spa*).
 
 ### Context
 I came across the idea of analysing particularities of Argentinian football but I didn't find any dataset that includes the information I wanted in an easy and summarised way. So I decided to generate this information myself.
@@ -41,13 +41,13 @@ If you notice a mistake you can fix that by submitting a pull request.
  -----
  
 ### Resultados del fútbol argentino desde 2015 hasta 2022
-Este set de datos contiene información acerca de todos los partidos realizados en la primera división del fútbol argentino desde el 2015 hasta el 2022. 
+Este set de datos contiene información acerca de todos los partidos realizados en la primera división del fútbol argentino desde el 2015 hasta el 2022. Hay dos archivos identicos en cuanto a información pero uno está en ingles(*_eng*) y otro en español (*_spa*)
 
 ### Contexto
 Tuve la idea de analizar particularidades del futbol argentino pero no encontré ningún set de datos que incluya la información que deseaba de forma fácil y resumida. Entonces decidí generar esta información por mi mismo.
 
 ### Contenido
-Contiene la información de 2821 partidos de primera división del fútbol argentino agrupando datos de promeidos.com.ar, transfermarkt.de and oddportal.com:
+Contiene la información de 2821 partidos de primera división del fútbol argentino agrupando datos de promeidos.com.ar, transfermarkt.de and oddportal.com en el archivo `afa_2015_2022_spa.csv`:
 * `torneo`: nombre del torneo en curso cuando se jugó el partido. *promiedos*
 * `fecha`: en qué fecha se jugó el partido. *promiedos*.
 * `partido`: número de partido dentro de la fecha. *promiedos*.
