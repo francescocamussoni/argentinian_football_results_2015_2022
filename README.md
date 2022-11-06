@@ -38,7 +38,7 @@ The names of the teams and tournaments are the ones that are used on promiedos.c
 ### Contribute
 If you notice a mistake you can fix that by submitting a pull request.
  
- "-----"
+ -----
  
 ### Resultados del fútbol argentino desde 2015 hasta 2022
 Este set de datos contiene información acerca de todos los partidos realizados en la primera división del fútbol argentino desde el 2015 hasta el 2022. 
@@ -48,26 +48,26 @@ Tuve la idea de analizar particularidades del futbol argentino pero no encontré
 
 ### Contenido
 Contiene la información de 2821 partidos de primera división del fútbol argentino agrupando datos de promeidos.com.ar, transfermarkt.de and oddportal.com:
-torneo: nombre del torneo en curso cuando se jugó el partido. *promiedos*
-fecha: en qué fecha se jugó el partido. *promiedos*.
-partido: número de partido dentro de la fecha. *promiedos*.
-equipo_local(visitante): nombre del equipo local(visitante) *promiedos*.
-goles_local(visitante): número de goles anotados por el equipo local(visitante). *promiedos*.
-goles_visitante(visitante): porcentaje de posesión del equipo local(visitante). *promiedos*.
-tiros_arco_local(visitante): tiros al arco del equipo local(visitante). *promiedos*.
-intentos_local(visitante): intentos totales del equipo local(visitante). *promiedos*.
-faltas_local(visitante): faltas cometidas por el equipo local(visitante). *promiedos*.
-tiros_esquina_local(visitante): tiros de esquina realizados por el equipo local(visitante). *promiedos*.
-amarillas_local(visitante): tarjetas amarillas del equipo local(visitante). *promiedos*.
-rojas_local(visitante): tarjetas rojas del equipo local(visitante). *promiedos*.
-valor_mercado_local(visitante): valor de mercado según del equipo local(visitante). *transfermarkt*.
-altura_media_local(visitante): altura media del equipo local(visitante). *transfermarkt*. 
-edad_media_local(visitante): edad media del equipo local(visitante). *transfermarkt*. 
-proporcion_zurdos_local(visitante): proporcion de jugadores zurdos en el equipo local (visitante). *transfermarkt*.
-resultado: resultado del encuentro.
-fecha_encuentro: fecha del encuentro. *oddsportal*.
-apuesta_local(visitante): retorno de apuesta para una victoria del equipo local(visitante). *oddsportal*.
-apuesta_empate: retorno de apuesta para un empate. *oddsportal*.
+* torneo: nombre del torneo en curso cuando se jugó el partido. *promiedos*
+* fecha: en qué fecha se jugó el partido. *promiedos*.
+* partido: número de partido dentro de la fecha. *promiedos*.
+* equipo_local(visitante): nombre del equipo local(visitante) *promiedos*.
+* goles_local(visitante): número de goles anotados por el equipo local(visitante). *promiedos*.
+* goles_visitante(visitante): porcentaje de posesión del equipo local(visitante). *promiedos*.
+* tiros_arco_local(visitante): tiros al arco del equipo local(visitante). *promiedos*.
+* intentos_local(visitante): intentos totales del equipo local(visitante). *promiedos*.
+* faltas_local(visitante): faltas cometidas por el equipo local(visitante). *promiedos*.
+* tiros_esquina_local(visitante): tiros de esquina realizados por el equipo local(visitante). *promiedos*.
+* amarillas_local(visitante): tarjetas amarillas del equipo local(visitante). *promiedos*.
+* rojas_local(visitante): tarjetas rojas del equipo local(visitante). *promiedos*.
+* valor_mercado_local(visitante): valor de mercado según del equipo local(visitante). *transfermarkt*.
+* altura_media_local(visitante): altura media del equipo local(visitante). *transfermarkt*. 
+* edad_media_local(visitante): edad media del equipo local(visitante). *transfermarkt*. 
+* proporcion_zurdos_local(visitante): proporcion de jugadores zurdos en el equipo local (visitante). *transfermarkt*.
+* resultado: resultado del encuentro.
+* fecha_encuentro: fecha del encuentro. *oddsportal*.
+* apuesta_local(visitante): retorno de apuesta para una victoria del equipo local(visitante). *oddsportal*.
+* apuesta_empate: retorno de apuesta para un empate. *oddsportal*.
 
 Los nombres de los equipos y de los torneos son los que se encuentran en promiedos.com.ar
 
